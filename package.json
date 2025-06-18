@@ -1,0 +1,9 @@
+{
+  "type": "module",
+  "dependencies": {
+    "@solana/web3.js": "^1.98.2",
+    "axios": "^1.10.0",
+    "fs-extra": "^11.3.0",
+    "https-proxy-agent": "^7.0.6"
+  }
+}
